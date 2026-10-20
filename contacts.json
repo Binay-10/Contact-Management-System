@@ -1,0 +1,17 @@
+{
+    "John Carter": {
+        "phone": "+1-555-018-9922",
+        "email": "john.c@example.com",
+        "address": "42 Silicon Way, Tech City"
+    },
+    "Sarah Connor": {
+        "phone": "+1-555-019-3344",
+        "email": "sarah.connor@cyberdyne.io",
+        "address": "100 Resistance Blvd, Los Angeles, CA"
+    },
+    "Elena Rostova": {
+        "phone": "+44 20 7946 0958",
+        "email": "elena.rostova@techglobal.org",
+        "address": "14 Kensington High St, London, UK"
+    }
+}
